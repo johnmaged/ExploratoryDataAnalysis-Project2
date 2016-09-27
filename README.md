@@ -1,4 +1,4 @@
-#### Exploratory Data Analysis - Project 2
+## Exploratory Data Analysis - Project 2
 
 ## Instruction
 This is the peer assessment project number two for the following Coursera course:
