@@ -20,8 +20,8 @@ For each year and for each type of PM source, the NEI records how many tons of P
 -R Project version R 3.1.0 GUI 1.64 Mavericks build
 
 ## Data for Peer Assessment [29Mb]
-The data for this assignment are available from the course web site as a single zip file initially containing two files: 
-
+download the data for this assignment [https://d396qusza40orc.cloudfront.net/exdata%2Fdata%2FNEI_data.zip]
+It contains two files: 
 - summarySCC_PM25.rds
 - Source_Classification_Code.rds
 
